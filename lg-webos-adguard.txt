@@ -53,7 +53,6 @@
 ||ad.lgsmartad.com^
 ||adsdtvc.com^
 ||cdpbeacon.lgtvcommon.com^
-!||aic.cdpbeacon.lgtvcommon.com^
 ||aic.cdplauncher.lgtvcommon.com^
 ||aic.cdpsvc.lgtvcommon.com^
 ||aic.homeprv.lgtvcommon.com^
@@ -65,7 +64,6 @@
 ||cdplauncher.lgtvcommon.com^
 ||cdpsvc.lgtvcommon.com^
 ||de.info.lgsmartad.com^
-!||eic.cdpbeacon.lgtvcommon.com^
 ||eic.cdplauncher.lgtvcommon.com^
 ||eic.cdpsvc.lgtvcommon.com^
 ||eic.homeprv.lgtvcommon.com^
@@ -80,7 +78,6 @@
 ||ibs.lgappstv.com^
 ||info.lgsmartad.com^
 ||initscr.lge.com^
-!||kic.cdpbeacon.lgtvcommon.com^
 ||kic.cdplauncher.lgtvcommon.com^
 ||kic.cdpsvc.lgtvcommon.com^
 ||kic.homeprv.lgtvcommon.com^
@@ -114,27 +111,18 @@
 ! ==============================================================================
 ! [LG CHANNELS & STREAMING TELEMETRY]
 ! ==============================================================================
-!||app-lgwebos.pluto.tv^
 ||aws-thinq-prd.net^
-!||bss.lgechannel.com^
 ||esi-prd.net^
-!||lgechannel.com^
 ||xumo.com^
 !
 ! ==============================================================================
 ! [LG THINQ & IOT TELEMETRY]
 ! ==============================================================================
-!||aic.api.lgtviot.com^
-!||aic.lgtviot.com^
 ||aic.service.lgtvcommon.com^
 ||connect-client.lgthinq.com^
-!||eic.api.lgtviot.com^
 ||eic.iotservice.lgthinq.com^
-!||eic.lgtviot.com^
 ||eic.service.lgthinq.com^
 ||eic.service.lgtvcommon.com^
-!||kic.api.lgtviot.com^
-!||kic.lgtviot.com^
 ||kic.service.lgtvcommon.com^
 ||lgthinqhome.com^
 ||lgtviot.com^
